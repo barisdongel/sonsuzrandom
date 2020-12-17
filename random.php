@@ -7,7 +7,7 @@ $random = 'KJAŞGKSJDŞLKJADGŞLKDFAGLJKHFADLJGHKJAŞGKSJDŞLKJADGŞLKDFAGLJKHFA
 	<title>Sonsuz random</title>
 </head>
 <body>
-	<a href="https://api.whatsapp.com/send?phone=+90 539 297 51 35&text=<?php echo $random ?>" target="_blank">
+	<a href="https://api.whatsapp.com/send?phone=&text=<?php echo $random ?>" target="_blank">
 		sonsuz random göndermek için tıkla
 	</a>
 </body>
